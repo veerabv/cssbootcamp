@@ -1,0 +1,189 @@
+/* style for 1st avatar */
+.card{
+    width:550px;
+    margin:20px auto;
+    background-color:#21db84d6;
+    padding:80px 40px;
+    border-radius:10px;
+}
+.heading{
+    font-size:60px;
+    font-family:sans-serif;
+}
+.btn{
+    padding:15px;
+    width:300px;
+    border:none;
+    background-color: white;
+    border-radius: 40px;
+    font-size:25px;
+    font-weight: bold;
+
+}
+.btn:hover{
+    border:5px solid rgba(62, 109, 189, 0.667);
+}
+.content-1{
+    font-size:18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+/* style for second box */
+
+.profile{
+    border:1px solid rgba(230, 223, 223, 0.968);
+    width:550px;
+    margin:20px auto;
+    background-color:rgba(255, 255, 255, 0.97);
+    padding:25px;
+    border-radius:10px;
+}
+.link-container{
+    border-top:1px solid rgba(230, 223, 223, 0.968);;
+}
+.profile-head{
+    font-size: 30px;
+    margin-top:15px;
+    font-family: sans-serif;
+    padding-left:25px;
+}
+.content-2{
+    color:grey;
+    font-size:25px;
+    padding-left:25px;
+}
+.avatars{
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    margin:35px;
+    
+}
+.h-avatar:hover{
+    border:1px solid rgb(115, 105, 205);
+    
+}
+.link-container{
+    padding:25px;
+    margin-left:10px;
+}
+.s-link{
+    text-decoration:none;
+    font-size:25px;
+    color:rgb(52, 145, 252);
+    font-family: sans-serif;
+}
+/* style for third design */
+.page-login{
+    width:350px;
+    margin:20px auto;
+    
+    padding:15px;
+}
+.f-desk{
+    text-align: center;
+    font-size:65px;
+    letter-spacing: 0.5px;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.content-3{
+    text-align: center;
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.8px;
+}
+.s-input{
+     box-sizing: border-box;
+     width:100%;
+     padding:15px;
+     margin-bottom:15px;
+     border-radius:8px;
+     border:1px solid rgba(215, 215, 215, 0.973);
+     font-size:18px;
+}
+.s-input::placeholder{
+    color:black;
+    
+}
+.p-show{
+    color:grey;
+    margin:-70px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.login-btn{
+    width:80%;
+    background-color: black;
+    color:white;
+    padding:20px;
+    margin:25px;
+    border-radius: 40px;
+    margin-left:35px;
+    font-size:20px;
+    letter-spacing: 1.3px;
+    font-weight: bold;
+}
+.content-4{
+    text-align: center;
+    font-size:18px;
+    color:grey;
+}
+.link-ch{
+    color:black;
+}
+.content-5{
+    text-align: center;
+    font-size:18px;
+    color:grey;
+}
+.link-ch1{
+    color:grey;
+}
+/* style fpr fourth design */
+.photo-edit{
+    width:550px;
+    background-color:rgba(255, 255, 255, 0.97);;
+    border-radius: 10px;
+    margin:25px auto;
+    border:1px solid rgba(230, 223, 223, 0.968);
+}
+.banner-img{
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* margin-bottom: 25px; */
+}
+.content-container{
+    padding:25px;
+}
+.content-6{
+    color:grey;
+    font-size:25px;
+    padding-right: 18px;
+}
+.content-7{
+    font-size:40px;
+    font-family: sans-serif;
+    line-height: 1.2;
+}
+.content-8{
+    color:grey;
+    font-size:30px;
+    font-family: sans-serif;
+    word-spacing: 6px;
+}
+.detail-btn{
+    padding:25px;
+    width:50%;
+    border:1px solid rgba(229, 218, 218, 0.922);
+    background-color: white;
+    color:rgb(52, 145, 252);
+    font-size: 25px;
+    border-radius: 10px;
+
+}
